@@ -29,8 +29,6 @@ O projeto foi criado a partir da formação *A partir do zero: HTML e CSS para p
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-*Obs: A foto foi retirada propositalmente.*
-
 ## Como acessar
 
 <a href="https://aluraplus-sandy-phi.vercel.app/">Link aqui para acessar o projeto/a>
