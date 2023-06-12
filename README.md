@@ -33,7 +33,7 @@ O projeto foi criado a partir da formação *A partir do zero: HTML e CSS para p
 
 ## Como acessar
 
-<a href="#">Link aqui para acessar o site</a>
+<a href="https://aluraplus-sandy-phi.vercel.app/">Link aqui para acessar o projeto/a>
 
 ## Agradecimentos
 
